@@ -35,7 +35,6 @@ Once the server starts, you can:
 ## 💡 Features  
 - Fully responsive UI  
 - Fast performance using Vite  
-- Pixel-perfect frontend replication of the **Coding Ninjas** website  
 
 ## 📌 Contributing  
 Feel free to fork this repository and make improvements. Contributions are always welcome!  
